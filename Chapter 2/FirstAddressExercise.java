@@ -4,13 +4,13 @@ public class FirstAddressExercise {
         
         System.out.println("First Java application");
         
-        System.out.println("Headquarters Address of Apple:");
+        System.out.println("Headquarters Address of Huawei:");
         displayAddress();
     }
     
        public static void displayAddress() {
       
-        String address = "Apple Inc.\nOne Apple Park Way\nCupertino, CA 95014\nUnited States";
+        String address = "Huawei industrial Base.\nBantian,Longgang District\nShenzhen, Guangdong 58129\nChina";
         
        
         System.out.println(address);
